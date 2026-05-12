@@ -1,4 +1,4 @@
-# 
+# Enhance Wine for macOS with advanced Wine for macOS Helper | 3D-graphics-support + guest-OS-support, the #1 helper. Includes 3D-graphics-support and guest-OS-support for a
 
 
 
